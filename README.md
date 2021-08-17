@@ -2,7 +2,7 @@
 
 I'm Taylor Lee, a high school student who cares about improving people's lives through impactful and ambitious projects with smart, humble and kind people. Most of my work is social good, creative AI, design and mental health related. My repos are private!
 
-![](https://komarev.com/ghpvc/?username=taylorylee&color=green)
+![](https://komarev.com/ghpvc/?username=taylorylee&color=blue)
 
 ## What am I up to? 📍
 
