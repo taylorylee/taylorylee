@@ -5,7 +5,8 @@ Welcome to the GitHub side of what I do. I'm Taylor Lee and I go by she/her pron
 ![](https://komarev.com/ghpvc/?username=taylorylee&color=blue)
 
 
-## Socials 
-* 📧 Email: taylorylee@hotmail.com
-* 💻 Personal Website: taylorlee.design
-* 💼 LinkedIn: taylorylee 
+## Communication
+* 💬 Verbal: Coffee Chat over Zoom or in person!
+* 👂 Listening: Music, podcasts, and other perspectives on ![Spotify](https://volt.fm/taylorlee) and wherever  
+* 📧 Written: Email taylorylee@hotmail[dot]com 
+* 👀 Visual: Personal Website https://taylorlee.design (WIP), LinkedIn taylorylee 
