@@ -9,4 +9,4 @@ Welcome to the GitHub side of what I do. I'm Taylor Lee (she/her) and I am curre
 * 💬 Verbal: Coffee Chat over Zoom or in person!
 * 👂 Listening: Music, podcasts, and other perspectives on [Spotify](https://volt.fm/taylorlee) and wherever  
 * 📧 Written: Email taylorylee@hotmail[dot]com 
-* 👀 Visual: Personal Website [https://taylorlee.design](https://taylorlee.notion.site/taylorlee/Hi-I-m-Taylor-Lee-89b3be3bd07e4bacb8603e65c9d1b27a) (WIP), LinkedIn taylorylee 
+* 👀 Visual: Personal Website [taylorylee.com](https://taylorlee.notion.site/taylorlee/Hi-I-m-Taylor-Lee-89b3be3bd07e4bacb8603e65c9d1b27a) (WIP), LinkedIn taylorylee 
