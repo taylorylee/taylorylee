@@ -6,7 +6,7 @@ Welcome to the GitHub side. I'm Taylor Lee (she/her) and I’m an aspiring UX re
 
 
 ## Let's get to know each other
-_* 💬 Verbal: Coffee Chat over Zoom or in person!
-_* 👂 Listening: Music, podcasts, and other perspectives on [Spotify](https://volt.fm/taylorlee) and wherever  
-_* 📧 Written: Email taylorylee[at]hotmail[dot]com _
-_* 👀 Visual: Personal Website [taylorylee.com](https://taylorlee.notion.site/taylorlee/Hi-I-m-Taylor-Lee-89b3be3bd07e4bacb8603e65c9d1b27a) (WIP), LinkedIn taylorylee ___
+* 💬 _Verbal: Coffee Chat over Zoom or in person!_
+* 👂 _Listening: Music, podcasts, and other perspectives on [Spotify](https://volt.fm/taylorlee) and wherever_  
+* 📧 _Written: Email taylorylee[at]hotmail[dot]com _
+* 👀 _Visual: Personal Website [taylorylee.com](https://taylorlee.notion.site/taylorlee/Hi-I-m-Taylor-Lee-89b3be3bd07e4bacb8603e65c9d1b27a) (WIP), LinkedIn taylorylee_
