@@ -1,6 +1,6 @@
 ## Hello hello hello!
 
-Welcome to the GitHub side. I'm Taylor Lee (she/her) and I’m an aspiring UX researcher and UX engineer currently based in San Diego interested in mission-driven and creative experiences and projects through human-centered design, education, and mental health. Most repos are private.
+Welcome to the GitHub side. I'm Taylor Lee (she/her), a computer science and psychology undergrad student currently based in San Diego interested in mission-driven and creative experiences and projects through human-centered design, education, and mental health. Most repos are private.
 
 ![](https://komarev.com/ghpvc/?username=taylorylee&color=blue)
 
