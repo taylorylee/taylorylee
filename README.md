@@ -1,6 +1,6 @@
-## Hello hello!
+## Welcome
 
-Welcome to the GitHub side. I'm Taylor Lee (she/her), an incoming cs + psych undergrad leading initiatives in mental health, human-centered technology, and education. 
+Hello hello, I'm Taylor Lee (she/her), an incoming cs + psych undergrad interested in all things mental health, human-centered technology, and education!
 
 ![](https://komarev.com/ghpvc/?username=taylorylee&color=blue)
 
