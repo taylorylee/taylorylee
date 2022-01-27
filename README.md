@@ -19,6 +19,6 @@
 -~                  ~---___,--~'                  ~~----_____-~'
 `~----,____                      -- 
 ```
-making things! more info @ taylorylee.com! always wip
+curious about a lot, coding is one amazing tool! more info @ taylorylee.com
 
 ![](https://komarev.com/ghpvc/?username=taylorylee&color=9DBF9E)
