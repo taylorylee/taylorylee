@@ -19,5 +19,3 @@
 -~                  ~---___,--~'                  ~~----_____-~'
 `~----,____                      -- 
 ```
-
-![](https://komarev.com/ghpvc/?username=taylorylee&color=9DBF9E)
